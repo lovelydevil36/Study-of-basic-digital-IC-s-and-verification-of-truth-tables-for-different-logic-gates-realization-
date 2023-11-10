@@ -52,7 +52,8 @@ Developed by: Abdul Hameed.J
 
 RegisterNumber: 21222050001
 ```
-module gates(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor);
+
+module nachi(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor); 
 input a,b;
 output yand,yor,ynot,yxor,ynand,ynor,yxnor;
 and(yand,a,b);
@@ -67,12 +68,15 @@ RTL diagram:
 DE EXP 1
 ```
 ## Truthtable:
-![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/1bdb56db-2b1e-4f76-b434-83bac1ee67ed)
+![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/b686a457-333a-4293-9e58-7c5d45229193)
+
 
 
 ## Output waveform:
+![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/a9b5841c-f12d-458c-8556-cf2134efaeb6)
 
-![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/948685e3-9d49-4a6a-885a-510018ccb468)
+# RTL realization:
+![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/36ed770e-f86d-4938-a661-83276a76ce6e)
 
 
 ## Result:
