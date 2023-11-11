@@ -50,7 +50,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 
 Developed by: Abdul Hameed.J
 
-RegisterNumber: 21222050001
+RegisterNumber:  212222050001
 ```
 
 module nachi(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor); 
@@ -64,19 +64,16 @@ nand(ynand,a,b);
 nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
-RTL diagram:
-DE EXP 1
+
 ```
-## Truthtable:
-![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/b686a457-333a-4293-9e58-7c5d45229193)
+## Logic symbol & Truthtable:
+![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/a365778b-2fc9-4cc5-addd-a2e314ed374a)
 
+## RTL realization:
+![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/c934ac94-1a1e-4b34-96a7-ffe6d21ac547)
 
-
-## Output waveform:
-![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/a9b5841c-f12d-458c-8556-cf2134efaeb6)
-
-# RTL realization:
-![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/36ed770e-f86d-4938-a661-83276a76ce6e)
+# Output:
+![image](https://github.com/lovelydevil36/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/123564624/cbb4770d-42b7-41ef-8232-8ed44717cf8c)
 
 
 ## Result:
